@@ -93,7 +93,7 @@ BootStracp
 	we have so many ready made class 
 
 
-	Gird 
+	Grid 
 	button
 	text 
 	bg 
