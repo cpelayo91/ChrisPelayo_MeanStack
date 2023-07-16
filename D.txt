@@ -1,3 +1,219 @@
+HML 
+CSS bootstracp 
+javaScript 
+
+
+
+Typescript+ web (html, css, botstracp ) = Angular 
+
+component ;
+		.html  : static web page 
+		.css : look and feel 
+		.ts  : logical 
+		.spec
+
+TypeScript : 
+		
+1)	basic ntroduction about typescript 
+
+	Advatage if TypeScript 
+
+	1)it can be check the what type of data it is : data type 
+	2) OOps : 
+		object oriented programing lang 
+		class , object 
+
+
+2) how to write asimple program 
+3)  configration : 
+		node js install tion 
+		typescritp installation 
+		tsc Demo.ts : compile 
+		node Demo : run 
+						Transpiler 
+
+4) typescript code will convert to JavaScript : 
+5) auto migrat
+6) @ : Docorator 
+
+	@Login
+	login.compoent.tml
+	login.comopnent.css
+	login.component.ts
+	login.compont.spect.ts : testing 
+
+
+7)
+	Optioanl parameter : using ? (question mark )
+	constructor(id:number,name:string,CODE:any,salary?:number,desig="DEVELOPER") : default parameter 
+
+var d4= new Demo4(100,"Thanesh","ABC",50000,"Developer");
+var d4= new Demo4(100,"Thanesh","ABC");
+
+8) (a:number,b:number)=> a+b; arrow funtions 
+	ADV : no need of funtion or funtion name 
+	how to wite ()=>{}
+let sum =(a,b)=>{
+    return a+b;
+}
+console.log(sum(100,200))
+
+9) OOPS : 
+		INHERITANCE : 
+			aquring the propertyfrom parent to child 
+
+	 
+10) date objetcs 
+		 var d = new Date()class Demo6
+{
+
+    constructor()
+    {
+        var d = new Date()
+        console.log(d)
+    }
+}
+var d6= new Demo6();
+
+
+
+getyear
+getMonth
+getDay()
+getHors
+getMinuts
+getSeconds()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tack 
+Phase 1
+pahse2
+phase 3
+phase 4
+
+Front End 
+
+Phase 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HTML
+CSS
+Bootstracp
+JavaScript
+----------------TypeScript 
+Angualr 2 + : logical 
+
+Middlw Wer/ backend 
+	Node JS 
+	Express JS 
+
+
+bckEnd 
+	MongoDB
+
+
+
+
+
+M- MongoDB 
+N- Node JS
+E- ExpressJS 
+A - Angualr JS 
+
+
+MEAN stack or fullStack 
+
+
+
+
+
+abc()
+{
+	
+	request
+			responce : not wait unitl the respoce to come back  
+}
+
+xyz()
+{
+	request
+			No responce  :  not wait unitl the respoce to come back
+}
+
+atoz()
+{
+	request
+	responce	No responcenot wait unitl the respoce to come back
+}
+
+abc()
+xyz()
+atoz()
+
+
+
+
+
+
+
+TypeScript 
+
+
+but not the JAVA SCRIPT 
+MEAN ===
+
+			Typescript 
+A : angualar  
+E express JS 
+N node JS 
+MongoDB 
+
+
+befor 5 years back 
+
+
+		ANGUALR JS 					Angualr 2+ 
+
+		javascript base 				typescript based 
+REVISE all the topics
+	will start at 7 : 10
+
+	GIT
+	HTML 
+	CSS 
+	Bootstarcp 
+	javaScript 
+
+
+
 git init
 git add README.md
 git commit -m "first commit"
@@ -111,4 +327,110 @@ BootStracp
 	model 
 
 				Java Script
-				
+						java 								javaScript 
+
+programing 										Scripting lang 
+
+compile
+	+
+		 run 									RUN 
+
+Slow 											fast
+
+Server side 									Cleint + server : so more popualr 
+
+
+
+
+javaScript :e 
+		AngualrJS 
+		React JS 
+		nodeJS
+		ExprerssJS
+		Veniall JS 
+		VewJS
+		BackboonJS 
+		Etc...!
+
+JAVA SCRIPTS 
+
+	functions 
+		funtions wityh parameters 
+	events 
+		onlick ,ondbl ,onmoseover , onmouseout, onload , onchange, on select 
+		onsubmit, onfocus , onblue, 
+
+	logics 
+	validation
+		onsubmits 
+		name==null, undefined , o 
+		<3
+		>10 
+		patterns  
+
+	Data Types 
+		string 
+		number 
+
+	Operatoos : 
+			aretmentic
+			logical 
+			assignment operators 
+			condatinal operators 
+			etc...? 
+	statemts :if , else , swithc 
+		loop : for , whle , do while 
+		jumping : break , continu , 
+	
+	protoType 
+	CallBack funtions 
+ 
+
+DOM : Document object model 
+	id : getElementsByID();
+	name:getElementByName
+	class: getEleenmtByClassName
+	tag: getEleementByTagName()
+	InnerHtml
+	innterText
+
+
+BoM: browser Object Model :
+	window functions :
+		alert
+		confim 
+		prompt
+
+
+Advanced javaScript :
+	class 
+	object 
+
+
+premitive dasta type 
+	String methods
+		uppercase 
+		lowercase
+		trim
+		length
+		slice
+		replace 
+		replaceAll
+
+number methods 
+
+	parseInt
+	parseFlote
+
+
+Array and its methods 
+	sort 
+	reverse
+	pop 
+	push 
+	
+
+	next topics 
+
+	Promis 
+	await
